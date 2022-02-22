@@ -1,1 +1,28 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+    
+    <bug_report_structure>
+       
+        <Main_items>
+            <item>ID</item>
+            <item>Title/Summary</item>
+            <item>Steps_to_Replay</item>
+            <item>Actual_result</item>
+            <item>Expected_result</item>
+            <item>Bug_Severity</item>
+        </Main_items>
+      
+        <Optional_items>
+            <item>Screenshot/video</item>
+            <item>Requirement</item>
+            <item>Bug type</item>
+            <item>Priority</item>
+            <item>Additional files</item>
+            <item>Environment</item>
+            <item>Status</item>
+            <item>Author</item>
+            <item>Performer</item>
+            <item>Comments</item>
+            <item>Version</item>
+            <item>Version of fix</item>
+        </Optional_items>
+    </bug_report_structure>
