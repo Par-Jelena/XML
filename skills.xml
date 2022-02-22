@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+	<Skills>
+			<name>Bash</name>
+			<name>Git</name>
+			<name>Postman</name>
+			<name>Python</name>
+			<name>SQL</name>
+			<name>Jmeter</name>		
+	</Skills>
